@@ -26,7 +26,7 @@
 * 🤝 Open to Internships, Freelance Projects & Open Source Contributions
 
 📑 Work Stats :  
-![Projects](https://img.shields.io/badge/Projects-25-blue?logo=github)
+![Projects](https://img.shields.io/badge/Projects-5-blue?logo=github)
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
 
 🤖 My Digital Stats :  
