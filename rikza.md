@@ -77,7 +77,7 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=rikzariyas&pretty=true)](https://visitcount.itsvg.in)
 
-<img align="right" src="images/git img.jpg" width="180">
+<img align="right" src="images/git img.jpg" width="220">
 
 <div  >
 <a  href="https://github.com/rikzariyas">
