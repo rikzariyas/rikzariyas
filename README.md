@@ -3,7 +3,7 @@
 <h1 align="center"><i>Hi there, I'm</i> <a href="https://www.rikzariyas.in">Rikza E R</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
-### 💻 Full-Stack Developer | 🚀 Software Engineer | BCA Student
+### 💻 Full-Stack Developer | 🚀 Software Engineer | BCA Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikza-e-r/)
 [![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/rikzariyas_resume_2025.pdf)
