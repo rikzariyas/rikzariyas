@@ -3,7 +3,7 @@
 <h1 align="center"><i>Hi there, I'm</i> <a href="https://www.rikzariyas.in">Rikza E R</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
-### 💻 Full-Stack Developer | 🚀 Software Engineer | MCA Student
+### 💻 Full-Stack Developer | 🚀 Software Engineer | BCA Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikza-e-r/)
 [![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/rikzariyas_resume_2025.pdf)
@@ -17,13 +17,13 @@
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
 - 💻 Full-Stack Web Developer (MERN Stack)
+- 🎓 MCA (Online) @ SRM University | BCA Graduate
 - 📱 Flutter & Mobile App Development Enthusiast
 - 🤖 Exploring AI & Machine Learning
-- 🎓 MCA (Online) @ SRM University | BCA Graduate
 - 🌱 Currently Learning Data Structures & Algorithms
 - 🎨 Passionate about UI/UX & Responsive Web Design
-- 🤝 Freelance Projects & Open Source Contributions
-- ✨ Learning something new every day
+-🤝 Open to collaborate on Projects & Freelance Works
+
 
 📑 Work Stats :  
 ![Projects](https://img.shields.io/badge/Projects-5-blue?logo=github)
