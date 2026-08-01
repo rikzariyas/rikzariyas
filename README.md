@@ -22,7 +22,7 @@
 - 🤖 Exploring AI & Machine Learning
 - 🌱 Currently Learning Data Structures & Algorithms
 - 🎨 Passionate about UI/UX & Responsive Web Design
--🤝 Open to collaborate on Projects & Freelance Works
+- 🤝 Open to collaborate on Projects & Freelance Works
 
 
 📑 Work Stats :  
