@@ -3,11 +3,11 @@
 <h1 align="center"><i>Hi there, I'm</i> <a href="https://www.rikzariyas.in">Rikza E R</a> <img src="animated/unicorn.gif" height="40" />
 </h1>
 
-### 💻 Full-Stack Developer | 🚀 Software Engineer | 👨‍🏫 Tech Trainer
+### 💻 Full-Stack Developer | 🚀 Software Engineer | BCA Graduate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rikza-e-r/)
-[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/rikzariyas_resume_2025.pdf)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikza.dev@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-34495e?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](/resume/rikzariyas_resume.pdf)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=rikza.dev@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rikzariyas/)
 
 </div>
@@ -16,21 +16,24 @@
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 
-* 💻 Full-Stack Web Developer (MERN Stack)
-* 📱 Flutter & Mobile App Development Enthusiast
-* 🤖 Exploring AI & Machine Learning
-* 🎓 MCA (Online) @ SRM University | BCA Graduate
-* 🌱 Currently Learning Data Structures & Algorithms
-* 🎨 Passionate about UI/UX & Responsive Web Design
-* 💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Flutter & Git
-* 🤝 Open to Internships, Freelance Projects & Open Source Contributions
+- 💻 Full-Stack Web Developer (MERN Stack)
+- 🎓 MCA (Online) @ SRM University | BCA Graduate
+- 📱 Flutter & Mobile App Development Enthusiast
+- 🤖 Exploring AI & Machine Learning
+- 🌱 Currently Learning Data Structures & Algorithms
+- 🎨 Passionate about UI/UX & Responsive Web Design
+- 🤝 Open to collaborate on Projects & Freelance Works
+
 
 📑 Work Stats :  
 ![Projects](https://img.shields.io/badge/Projects-5-blue?logo=github)
 ![Client Satisfaction](https://img.shields.io/badge/Client_Satisfied-78%25-brightgreen?logo=github)
 
-🤖 My Digital Stats :  
-[![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/rikza-e-r) [![GitHub Stars](https://img.shields.io/github/stars/rikzariyas?style=flat-square&logo=github)](https://github.com/rikzariyas)
+🤖 My Digital Stats :
+
+<!-- [![LinkedIn Followers](https://img.shields.io/badge/LinkedIn_Followers-4k+-blue?logo=linkedin)](https://www.linkedin.com/in/rikza-e-r)  -->
+
+[![GitHub Stars](https://img.shields.io/github/stars/rikzariyas?style=flat-square&logo=github)](https://github.com/rikzariyas)
 [![GitHub Followers](https://img.shields.io/github/followers/rikzariyas?style=flat-square&logo=github)](https://github.com/rikzariyas?tab=followers) [![Profile Views](https://visitcountpro.netlify.app/api?id=rikzariyas&pretty=true)](https://visitcount.itsvg.in)
 
 ---
@@ -74,23 +77,13 @@
 
 ## <img src="animated/light_5.gif" height="30px" /> Current GitHub Stats 📊 [![Profile Views](https://visitcountpro.netlify.app/api?id=rikzariyas&pretty=true)](https://visitcount.itsvg.in)
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" src="images/git img.jpg" width="220">
 
-<div  >
-<a  href="https://github.com/rikzariyas">
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rikzariyas&theme=2077" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikzariyas&theme=2077&exclude={exclude}" width="32.5%" >
-</div>
-<div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rikzariyas&theme=2077&exclude={exclude}" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rikzariyas&theme=2077&utcOffset=+05.30" width="32.5%" >
-</div>
+<a href="https://github.com/rikzariyas">
+  <img src="https://github-readme-stats.vercel.app/api?username=rikzariyas&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikzariyas&layout=compact&theme=tokyonight" width="48%">
 </a>
-<details>
-  <summary>More stats</summary>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikzariyas&theme=2077" >
-</details>
 </div>
 
 ## 🧑🏻‍💻Leetcode Stats
