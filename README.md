@@ -79,21 +79,11 @@
 
 <img align="right" src="images/git img.jpg" width="220">
 
-<div  >
-<a  href="https://github.com/rikzariyas">
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rikzariyas&theme=2077" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rikzariyas&theme=2077&exclude={exclude}" width="32.5%" >
-</div>
-<div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rikzariyas&theme=2077&exclude={exclude}" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rikzariyas&theme=2077&utcOffset=+05.30" width="32.5%" >
-</div>
+<a href="https://github.com/rikzariyas">
+  <img src="https://github-readme-stats.vercel.app/api?username=rikzariyas&show_icons=true&theme=tokyonight" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rikzariyas&layout=compact&theme=tokyonight" width="48%">
 </a>
-<details>
-  <summary>More stats</summary>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikzariyas&theme=2077" >
-</details>
 </div>
 
 ## 🧑🏻‍💻Leetcode Stats
